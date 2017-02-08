@@ -1,0 +1,14 @@
+$PROJ_DIR$\..\
+$PROJ_DIR$\..\..\..\Libraries\CMSIS\Device\ST\STM32F30x\Include
+$PROJ_DIR$\..\..\..\Libraries\STM32F30x_StdPeriph_Driver\inc
+$PROJ_DIR$\..\..\..\Libraries\STM32F30x_I2C_CPAL_Driver\inc
+$PROJ_DIR$\..\..\..\Utilities\STM32_EVAL\Common
+$PROJ_DIR$\..\..\..\Project\StdPeriph_Templates\sourc
+$PROJ_DIR$\..\..\..\Utilities\STM32_EVAL\STM32303C_EVAL
+F:\Works\ELC_LED\ELC_F302\DSP_StdPeriph_Lib\Project\StdPeriph_Templates\source
+
+
+USE_STDPERIPH_DRIVER
+STM32F303X8
+USE_STDPERIPH_DRIVER
+STM32F303x8
